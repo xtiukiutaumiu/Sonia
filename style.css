@@ -1,0 +1,54 @@
+nav {
+    background-color:mediumvioletred;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-family:cursive;
+    margin: 7px;
+}
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: greenyellow;
+    margin: 5px;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+header a {
+    color: rgb(44, 133, 44)
+}
+
+header b {
+    color: white
+}
+
+h1 {
+    text-align: center;
+    color: darkslategray
+}
+
+footer {
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 10px ;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+.ggg {
+    background-color: mediumvioletred;
+    border-radius: 20px;
+    padding: 10px;
+}
+
