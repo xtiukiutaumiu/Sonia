@@ -1,0 +1,18 @@
+ol {
+    color: hotpink;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: hotpink;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: hotpink;
+}
