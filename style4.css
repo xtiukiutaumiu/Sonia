@@ -1,0 +1,28 @@
+nav a {
+    text-decoration: none;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color:rgb(253, 255, 219);
+    background-image: linear-gradient(to top, rgb(29, 121, 81), rgb(144, 207, 100)); 
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    border: 3px solid rgb(22, 101, 64);
+    font-size: 20px;
+}
+
+nav {
+    background-image: linear-gradient(to top, rgb(128, 225, 86), rgb(255, 255, 167) );
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 4px solid rgb(10, 72, 56);
+}
+
+nav a:hover {
+    background-image: linear-gradient(to top, rgb(111, 198, 35), rgb(243, 255, 140));
+    border: 3px solid rgb(75, 160, 73);
+    box-shadow: 0 2px 1px 0 rgb(254, 255, 204);
+    color: rgb(255, 255, 241);
+}
+
